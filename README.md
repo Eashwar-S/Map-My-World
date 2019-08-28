@@ -8,6 +8,7 @@ Software Required:-
 2. Gazebo
 3. Rviz
 4. Rtab-map viewer (Real time appearance based mapping)
+5. Linux Operating System
 
 Commands used:-
 
